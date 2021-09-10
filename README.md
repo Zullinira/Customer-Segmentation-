@@ -3,7 +3,7 @@
 Customer segmentation is the process of dividing customers into groups based on common characteristics so companies can market to each group effectively and appropriately.
 
 <h3 align="left"> 🔸 Summary </h3>
-Customer segmentation needs to be done to see which customers are more profitable in sales. The aim of this project is to segment the Customers based on RFM using K-Means so that the company can target its customers efficiently. In this case using Online retail UK has transnational dataset containing all transactions that occurred between 01/12/2010 and 09/12/2011.
+Customer segmentation is used to see which customers are more profitable in sales.The aim of this project is to segment the Customers based on RFM using K-Means so that the company can target its customers efficiently. In this case using Online retail UK has transnational dataset containing all transactions that occurred between 01/12/2010 and 09/12/2011.
 
 <h3 align="left"> 🔸 Business Question</h3>
 
